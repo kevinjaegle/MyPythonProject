@@ -30,7 +30,7 @@ if age >= 18:
                 if health <= 0:
                     print("Du hast keine Lebenspunkte mehr und verlierst...")
                 else:
-                    print("Du hast überlebt!")
+                    print("Es geht weiter!")
 
                 ans = input("Möchtest du etwas essen? (ja/nein) ")
                 if ans == "ja":
