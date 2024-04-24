@@ -1,6 +1,6 @@
 # Python Tutorialreihe für Anfänger: Dein eigenes Abenteuerspiel erstellen
 
-Herzlich willkommen zur Python Tutorialreihe für komplette Anfänger! In dieser Reihe werden wir die Grundlagen der Programmiersprache Python erlernen und gleichzeitig unser eigenes Projekt – ein Textbasiertes Abenteuerspiel – entwickeln. So kannst du nicht nur die Konzepte verstehen, sondern auch direkt anwenden und sehen, wie und wo sie im echten Projekt verwendet werden.
+Wir werden ein Textbasiertes Abenteuerspiel – entwickeln. So kannst du nicht nur die Konzepte verstehen, sondern auch direkt anwenden und sehen, wie und wo sie im echten Projekt verwendet werden.
 
 ## Einführung und Setup
 
